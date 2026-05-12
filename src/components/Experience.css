@@ -1,0 +1,67 @@
+.experience-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.experience-item {
+  border-left: 4px solid var(--primary);
+}
+
+.exp-header {
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.exp-title-group {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.exp-icon {
+  background: rgba(102, 252, 241, 0.1);
+  padding: 12px;
+  border-radius: 50%;
+  display: flex;
+}
+
+.exp-role {
+  font-size: 1.4rem;
+  margin-bottom: 0.2rem;
+}
+
+.exp-company {
+  font-size: 1rem;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+
+.exp-period {
+  font-weight: 600;
+  background: rgba(102, 252, 241, 0.1);
+  padding: 0.4rem 1rem;
+  border-radius: 50px;
+  font-size: 0.9rem;
+}
+
+.exp-description {
+  padding-left: 1.5rem;
+  color: var(--text-secondary);
+}
+
+.exp-description li {
+  margin-bottom: 0.8rem;
+  position: relative;
+}
+
+.exp-description li::before {
+  content: '▹';
+  position: absolute;
+  left: -1.5rem;
+  color: var(--primary);
+  font-weight: bold;
+}
