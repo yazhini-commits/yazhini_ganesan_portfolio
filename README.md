@@ -80,7 +80,7 @@ npm run dev
 Add your deployed Vercel link here:
 
 ```text
-https://your-portfolio.vercel.app
+https://yazhini-dev.vercel.app
 ```
 
 ---
