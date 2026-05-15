@@ -45,10 +45,10 @@ const projectsData = [
     live: "#"
   },
   {
-    title: "invoice_creator",
+    title: "SAP Based Invoice Generator",
     period: "Recent",
-    description: "A full-stack MERN Invoice Management System with dynamic dashboard analytics, GST/TDS/TCS support, secure authentication, profile customization, and PDF invoice generation.",
-    techStack: ["TypeScript", "MongoDB", "Express", "React", "Node.js"],
+    description: "An SAP-based Invoice Management System with dynamic dashboard analytics, GST/TDS/TCS support, secure authentication, profile customization, and PDF invoice generation.",
+    techStack: ["SAP", "SAP HANA", "SAP Fiori", "React", "Node.js"],
     github: "https://github.com/yazhini-commits/invoice_creator.git",
     live: "https://mikasa-invoice-app.vercel.app/"
   }

@@ -35,7 +35,7 @@ const Hero = () => {
           <h1 className="title">Yazhini Ganesan</h1>
           <h2 className="role text-secondary">B.Tech in Computer Science & Engineering</h2>
           <p className="description">
-            Passionate software engineer building robust web and IoT applications. 
+            Passionate software engineer with expertise in Java and SAP, building robust web and IoT applications. 
             Currently pursuing my degree at Sri Manakula Vinayagar Engineering College.
           </p>
           <div className="hero-buttons flex-center">
