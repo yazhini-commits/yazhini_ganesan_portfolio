@@ -10,7 +10,7 @@ const projectsData = [
     description: "MECH_CABS is an AI-powered roadside assistance platform that helps users connect with nearby verified mechanics and book emergency cab or bike services during vehicle breakdown situations.",
     techStack: ["Java", "Android Studio", "Firebase Realtime Database", "Google Maps API", "Location Services"],
     github: "https://github.com/yazhini-commits/MECH_CABS/tree/main",
-    live: "#"
+    live: "https://mech-cabs.vercel.app"
   },
   {
     title: "Smart Train Ticket Verification System",
